@@ -1,4 +1,3 @@
-print("Enter a character: ")
 char=input()
 if (char>='a' and char<='z') or (char>='A' and char<='Z'):
     if(char=='a' or char=='e' or char=='i' or char=='o' or char=='u' or char=='A' or char=='E' or char=='I' or char=='O' or char=='U'):
@@ -7,3 +6,6 @@ if (char>='a' and char<='z') or (char>='A' and char<='Z'):
         print("Consonent")
 else:
     print("invalid")
+
+    
+    
